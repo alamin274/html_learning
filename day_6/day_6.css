@@ -1,0 +1,35 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Angkor&display=swap');
+.my_div{
+    border: 1px solid red;
+    /* background-image: url("../images2/landscape.jpg"); */
+    /* background-size: cover; */
+    /* background-size: contain; */
+    /* background-repeat: no-repeat; */
+    /* background-position: center;
+     */
+     object-fit: contain;
+     /* background-color: green; */
+     
+     /* height: 900px; */
+
+}
+/* p,h1,span{
+    background-color: red;
+}
+h1{
+    display: inline;
+}
+span{
+    display: block;
+} */
+
+.first{
+    color: green;
+}
+.second{
+    color: red;
+}
+h1{
+    font-family: "Angkor", serif;
+}
